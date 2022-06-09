@@ -1,1 +1,9 @@
+[Core]
+Name = test
+Module = test
 
+[Documentation]
+Description = This is a hint plugin with !hint.
+
+[Python]
+Version = 2+
